@@ -1,0 +1,49 @@
+header{
+  background-image: url(../../assets/developer/projects.png);
+  background-position: 100% 100% ;
+  background-size: cover;
+  height: 248px;
+  top: 132px;
+  }
+  header h1 {
+  width: 298px;
+  height: 55px;
+  font-size: 46px;
+  font-weight: 700;
+  line-height: 55px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  }
+  .btnSearch{
+    width: 165px;
+  height: 38px;
+  padding: 12px, 16px, 12px, 16px;
+  border-radius: 8px;
+  gap: 10px;
+  background: rgba(0, 60, 195, 1);
+  color: white;
+  }
+  select option{
+    width: 94px;
+  height: 22px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  }
+  .buttunCurosl{
+    background-image:linear-gradient(#2D3E85 ,#171B2E  )  ;
+    color: #fff;
+  height: 42px;
+  padding: 10px, 8px, 10px, 8px;
+  border-radius: 8px, 0px, 8px, 0px;
+  gap: 4px;
+  }
+  .sectionSearch{
+    background: rgba(217, 217, 217, 0.2);
+  height: 80px;
+  border-radius: 16px;
+
+  }

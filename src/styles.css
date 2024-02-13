@@ -1,1 +1,75 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('../node_modules/bootstrap/dist/css/bootstrap.min.css');@import url('../node_modules/@fortawesome/fontawesome-free/css/all.min.css');
+:root
+{
+  --mainColor:#EDB143;
+  --sceconColor:#0A2461;
+  --thirdColor: rgba(0, 60, 195, 1);
+
+--font-family: 'Fira Sans', sans-serif;
+--Mainfont-family: 'Lato', sans-serif;
+--font-family: 'Roboto', sans-serif;
+--font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+*{
+  font-family: var(--Mainfont-family);
+}
+.text-main{
+  color: var(--mainColor);
+}
+.text-scandry{
+  color: var(--sceconColor);
+}
+.text-About{
+  color: var(--thirdColor);
+}
+
+/* .line::before{
+  content: '';
+  position: absolute;
+  top: 25%;
+  left: 44.3%;
+  background-color: var(--mainColor);
+  width: 35px;
+  height: 2px;
+} */
+.tittle .line{
+
+  background-color: var(--mainColor);
+  width: 34.29px;
+height: 3px ;
+
+}
+.btn-main{
+
+  background:#F8F8F8;
+  width: 162px;
+height: 53px;
+top: 131px;
+right: 20px;
+padding: 12px, 16px, 12px, 16px;
+border-radius: 8px;
+border: 1px;
+gap: 10px;
+
+}
+.btn-secandrey{
+  width: 149px;
+height: 53px;
+top: 131px;
+right: 20px;
+padding: 12px, 16px, 12px, 16px;
+border-radius: 12px;
+border: 1px;
+gap: 10px;
+}
+.btn-search
+{
+  width: 150px;
+height:48px;
+padding: 12px, 16px, 12px, 16px;
+border-radius: 8px;
+gap: 10px;
+background: rgba(0, 60, 195, 1);
+
+}
+

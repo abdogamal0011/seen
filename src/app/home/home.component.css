@@ -1,0 +1,161 @@
+
+
+header
+{
+background-image: url("../../assets/Background\ image.png");
+background-size: 100% 100%;
+background-position: center;
+}
+.layer{
+  background-image: url(../../assets/Subtract.svg);
+  background-size: cover;
+  background-position: left;
+}
+.h1header h1{
+  font-family: Lato;
+font-size: 40px;
+font-weight: 600;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+width: 609px;
+height: 96px;
+}
+.h1header p{
+  font-family: Lato;
+font-size: 30px;
+font-style: italic;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+width: 505px;
+height: 72px;
+}
+.inputHome{
+  bottom: 23%;
+  left: 7%;
+  background: linear-gradient(90.46deg, rgba(255, 255, 255, 0.6) 0%, rgba(255, 255, 255, 0.4) 100%);
+  padding: 1%;
+  width: 70%;
+  border-radius:8px ;
+}
+.inputHome h4{
+  color: rgba(31, 31, 31, 1);
+font-family: Lato;
+font-size: 32px;
+font-style: italic;
+font-weight: 400;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: left;
+}
+.h1header{
+  z-index: 3;
+  color: #fff;
+}
+.masterLayer .buutonMasteron{
+  position: absolute;
+  bottom: 80px;
+  left: 80px;
+ background: linear-gradient(0deg, #F8F8F8, #F8F8F8),
+linear-gradient(180deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.4) 100%);
+width: 133px;
+height: 46px;
+
+padding: 12px, 24px, 12px, 24px;
+border-radius: 8px;
+border: 1px;
+gap: 10px;
+
+}
+
+.layerSectionTwo{
+
+  background-image: url(../../assets/Vector.svg);
+  background-position: 100% 100%;
+  background-size: cover;
+    color: white;
+
+}
+.captionSectionTwo{
+  background-color: rgba(10, 18, 38, 0.940);
+  border-radius: 8px, 0px, 0px, 8px;
+  }
+.captionSectionTwo h3{
+font-size: 28px;
+font-weight: 800;
+
+}
+.captionSectionTwo p{
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+
+}
+.captionSectionTwo .buttunSectionTwo{
+  width: 202px;
+  height: 46px;
+  top: 138px;
+  left: 673px;
+  padding: 12px, 62px, 12px, 32px;
+  border-radius: 8px;
+  border: 1px;
+  gap: 10px;
+  background: linear-gradient(0deg, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4));
+border: 1px solid rgba(248, 248, 248, 1);
+}
+
+.icon{
+  background: #E7E7E7;
+}
+.layerSectionFive{
+  background-color: #F1F1F1;
+}
+.SectionSix{
+  background-color: #0A1226;
+  color: #fff;
+}
+.sectionSeven{
+  background-image: url(../../assets/Vector.svg);
+  background-position:center ;
+  background-size: 100% 100%;
+}
+.sectionSevenContainer{
+  background-color: rgba(255, 255, 255, 0.748);
+}
+.layerSectionSeven{
+  background-color: #F1F1F1;
+}
+.iconColor1{
+  color: #003CC3;
+}
+.iconColor2{
+  color: gainsboro;
+}
+.layerSectioneight img{
+  width: 100px;
+}
+
+.buttunCurosl{
+  background-image:linear-gradient(#2D3E85 ,#171B2E  )  ;
+  color: #fff;
+  width: 166px;
+height: 42px;
+padding: 10px, 8px, 10px, 8px;
+border-radius: 8px, 0px, 8px, 0px;
+gap: 4px;
+}
+
+.sectionNinePartOne
+{
+  background-image: url(../../assets/Vector.svg);
+  background-position: 100% 100%;
+
+}
+.layerSectionNine{
+  background-color: rgba(10, 18, 38, 0.938);
+  color: #fff;
+}
+

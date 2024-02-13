@@ -1,0 +1,15 @@
+.upNav{
+  background: rgba(233, 233, 233, 1);
+  height: 52px;
+}
+.nav-link button {
+  width: 134px;
+height: 42px;
+top: 8px;
+left: 1066px;
+padding: 10px, 16px, 10px, 16px;
+border-radius: 8px;
+gap: 10px;
+background: rgba(0, 60, 195, 1);
+color: white;
+}

@@ -1,0 +1,70 @@
+.layerPartOne p {
+font-size: 16px;
+font-weight: 600;
+line-height: 26px;
+letter-spacing: -0.02em;
+text-align: left;
+width: 261.04px;
+height: 78px;
+}
+.lineFooter{
+border: 1px;
+background: rgba(31, 31, 31, 1);
+border: 1px solid rgba(31, 31, 31, 1);
+}
+.pagrarphFooter{
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: -0.02em;
+text-align: center;
+height: 26px;
+}
+.layerFooterPartTwo br{
+  content: '';
+  position: absolute;
+  top: 20%;
+  left: 0%;
+  background: rgba(0, 60, 195, 1);
+  border: 1px solid rgba(0, 60, 195, 1);
+  width: 73.91px;
+  margin-bottom: 5px;
+}
+.layerFooterPartTwo2 br{
+  content: '';
+  position: absolute;
+  top: 27%;
+  left: 0%;
+  background: rgba(0, 60, 195, 1);
+  border: 1px solid rgba(0, 60, 195, 1);
+  width: 73.91px;
+  margin-bottom: 5px;
+}
+.layerFooterPartTwo3 br{
+  content: '';
+  position: absolute;
+  top: 26%;
+  left: 0%;
+  background: rgba(0, 60, 195, 1);
+  border: 1px solid rgba(0, 60, 195, 1);
+  width: 73.91px;
+  margin-bottom: 5px;
+}
+.layerFooterPartTwo p{
+
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: -0.02em;
+text-align: left;
+}
+.layerPartOne p{
+font-size: 16px;
+font-weight: 600;
+line-height: 26px;
+letter-spacing: -0.02em;
+text-align: left;
+width: 261.04px;
+height: 78px;
+
+}

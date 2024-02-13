@@ -1,0 +1,106 @@
+header{
+  background-image:url(../../assets/detalisDetalisDeveloper/2.png);
+  background-position: center  ;
+background-size: 100% 100%;
+height: 248px;
+}
+
+.layerHader .pagrap1{
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: -0.015em;
+  text-align: center;
+  color: rgba(136, 136, 136, 1);
+  width: 88px;
+  height: 22px;
+}
+.layerHader .pagrap1 i{
+width: 4px;
+height: 8px;
+border: 1px;
+}
+.layerHader .pagrap2{
+font-size: 18px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: -0.015em;
+text-align: center;
+color: rgba(248, 248, 248, 1);
+}
+.captioHeader h3{
+font-size: 46px;
+font-weight: 700;
+line-height: 55px;
+letter-spacing: 0em;
+text-align: left;
+width: 271px;
+height: 55px;
+}
+.sectionOne{
+  background-image: url(../../assets/detalisDetalisDeveloper/5.svg);
+  background-size: 100% 100%;
+  background-position: 100% 100%;
+}
+.sectionOneContainer{
+  background: rgba(248, 248, 248, 0.87);
+  width: 100%;
+}
+.tittle h4{
+font-size: 40px;
+font-weight: 600;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+height: 48px;
+}
+.tittle h5{
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+height: 22px;
+color: rgba(0, 60, 195, 1);
+}
+.pagraph9 p img{
+  vertical-align:unset;
+}
+.captionSectionTwo{
+  border: 1px solid rgba(231, 231, 231, 1);
+  box-shadow: 0px 1px 4px 0px rgba(154, 154, 154, 0.1);
+  background: linear-gradient(0deg, #F8F8F8, #F8F8F8),
+linear-gradient(0deg, #E7E7E7, #E7E7E7);
+height: fit-content;
+border-radius: 8px;
+border: 1px;
+}
+.pagraph10{
+  font-family: Lato;
+font-size: 18px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+height: 22px;
+color: rgba(31, 31, 31, 1);
+}
+.pagraph9 p{
+height: 14px;
+font-family: Lato;
+font-size: 12px;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(136, 136, 136, 1);
+}
+.pagraph8{
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0.01em;
+text-align: left;
+color: rgba(136, 136, 136, 1);
+}
+

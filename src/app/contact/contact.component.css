@@ -1,0 +1,161 @@
+header{
+  background-image: url(../../assets/contact/Subtract.png);
+  background-size: 100% 100% ;
+  background-position: center;
+height: 248px;
+
+}
+header h2{
+font-size: 46px;
+font-weight: 700;
+line-height: 55px;
+letter-spacing: 0em;
+text-align: left;
+height: 55px;
+padding: 5%;
+margin-left: 5%;
+}
+.text-scandry2{
+font-size: 46px;
+font-weight: 700;
+line-height: 55px;
+letter-spacing: 0em;
+text-align: left;
+width: 352px;
+height: 110px;
+}
+.text-About1{
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+width: 64px;
+height: 22px;
+color: rgba(10, 36, 97, 1);
+}
+.imagSectionOne p{
+  width: 554px;
+height: 75px;
+border: 1px solid rgba(232, 156, 39, 1);
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0.03em;
+text-align: left;
+padding-left: 5px;
+}
+.inputContact input{
+  width: 542px;
+height: 50px;
+padding: 12px, 20px, 12px, 20px;
+border-radius: 5px;
+border: 1px;
+gap: 10px;
+border: 1px solid rgba(232, 156, 39, 1);
+}
+.inputContact textarea{
+  width: 542px;
+height: 110px;
+padding: 5.74px, 456px, 80.26px, 20px;
+border-radius: 8px;
+border: 1px;
+gap: 10px;
+border: 1px solid rgba(232, 156, 39, 1);
+}
+.inputContact button{
+  width: 281px;
+height: 50px;
+padding: 12px, 24px, 12px, 24px;
+border-radius: 8px;
+gap: 10px;
+background: rgba(0, 60, 195, 1);
+color: white;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: center;
+}
+.sectionOnePartTwo{
+  width: 448px;
+height: 355px;
+border-radius: 8px;
+background: rgba(238, 238, 238, 1);
+padding: 4%;
+
+}
+.sectionOnePartTwo ul li{
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin-top: 6%;
+}
+.sectionOnePartTwo ul li p{
+margin-bottom: 0;
+}
+.sectionOnePartTwo ul li img{
+  padding-right:3%;
+ }
+ .li1{
+font-size: 24px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.01em;
+text-align: left;
+width: 353px;
+height: 24px;
+ }
+ .li2{
+font-size: 20px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: -0.48494091629981995px;
+text-align: left;
+width: 321px;
+height: 53px;
+ }
+ .li3{
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+width: 133px;
+height: 19px;
+ }
+ .li4{
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+width: 133px;
+height: 19px;
+ }
+ .li5{
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+width: 167.83px;
+height: 32px;
+ }
+ .li6{
+  font-family: Lato;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0.01em;
+text-align: left;
+width: 347px;
+height: 72px;
+ }
+ .SectionPartTwoOnly{
+ background: rgba(238, 238, 238, 1);
+width: 448px;
+height: 139px;
+border-radius: 8px;
+ }
+
